@@ -93,7 +93,7 @@ The tenant may not make structural or other changes to the rental property or it
 
 ### §6 Condition of the Rental Property
 
-The property is provided in a renovated, fully furnished condition as specified in the annex.  
+The property is provided in a renovated, fully furnished condition.  
 
 ---
 
@@ -119,11 +119,10 @@ At the end of the rental period, the tenant must return the property cleaned and
 
 ### §10 Miscellaneous
 
-1. The attached house rules are an integral part of this agreement.  
-2. Pets may only be kept with the landlords' approval, except for small animals that do not disrupt the premises. Approval may be revoked for valid reasons.  
-3. Berlin residents are required to register with GEZ and pay the broadcasting fee per month.  
-4. By signing this contract, the tenant agrees to the terms of the existing Electricity and Internet provider. The tenant is responsible for all data traffic and any associated costs or copyright violations.
-5. Assignment of claims from §§ 556d BGB through § 556g BGB is not permitted.  
+1. Pets may only be kept with the landlords' approval, except for small animals that do not disrupt the premises. Approval may be revoked for valid reasons.  
+2. Berlin residents are required to register with GEZ and pay the broadcasting fee per month.  
+3. By signing this contract, the tenant agrees to the terms of the existing Electricity and Internet provider. The tenant is responsible for all data traffic and any associated costs or copyright violations.
+4. Assignment of claims from §§ 556d BGB through § 556g BGB is not permitted.  
 
 ---
 
